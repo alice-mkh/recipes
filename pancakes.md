@@ -6,7 +6,7 @@ Source: https://www.thetasteofkosher.com/coconut-milk-pancakes/
 - 4 teaspoons baking powder
 - teaspoon baking soda
 - ½ teaspoon salt
-- 1½ cups coconut milk (300 ml)
+- 1½ cups coconut milk (300 ml) (400?)
 - 1 egg
 - 3 tablespoons oil
 - 2 teaspoons vanilla
@@ -14,6 +14,6 @@ Source: https://www.thetasteofkosher.com/coconut-milk-pancakes/
 # Instructions
 1. Mix everything together
 2. Heat up the pancake pan, set burner to 7
-3. Pour one tablespoon of batter per pancake, 3 or 4 at a time. Don't use oil
-4. Flip them once they have plenty of bubbles (TODO: measure the specific time)
-5. Take them out of the pan. Don't wait for too long so they don't get burned (TODO: measure the specific time)
+3. Pour one tablespoon of batter per pancake, 3 or 4 at a time. Don't use oil. To avoid making them too large, wait a bit so there isn't much dough on the underside
+4. Wait a minute after pouring all of them, flip them in the same order
+5. Wait another minute, take them out of the pan
