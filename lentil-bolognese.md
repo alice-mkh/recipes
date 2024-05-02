@@ -1,5 +1,7 @@
 Source: https://rainbowplantlife.com/10-ingredient-vegan-red-lentil-bolognese/
 
+TODO servings
+
 # Ingredients
 - 1½ tablespoons oil
 - 1 large onion, diced
