@@ -14,16 +14,15 @@ TODO servings, at least 2
 - ½ cup (120 mL) water 
 - ½ cups of chickpeas, drained and rinsed
 - ½ teaspoon sugar
+- Ground spices
+  - 1 ½ teaspoons curry powder
+  - 1 teaspoon ground coriander
+  - ½ teaspoon ground cinnamon
+  - 1/2 teaspoon freshly grated nutmeg
+  - ¼ teaspoon ground turmeric
 - 150 mL of rice
 
-# Ground Spices
-- 1 ½ teaspoons curry powder
-- 1 teaspoon ground coriander
-- ½ teaspoon ground cinnamon
-- 1/2 teaspoon freshly grated nutmeg
-- ¼ teaspoon ground turmeric
-
-# Instructions
+Instructions
 
 1. Soak chickpeas for a few hours
 2. Heat the oil in a 12-inch heavy-bottomed sauté pan or medium-sized Dutch oven over medium-high heat. Once hot, add the cumin and coriander seeds for about 1 minute, tossing frequently, or until aromatic and darker by a few shades but don’t let them burn!
