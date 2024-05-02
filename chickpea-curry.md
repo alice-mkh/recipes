@@ -22,7 +22,7 @@ TODO servings, at least 2
   - ¼ teaspoon ground turmeric
 - 150 mL of rice
 
-Instructions
+# Instructions
 
 1. Soak chickpeas for a few hours
 2. Heat the oil in a 12-inch heavy-bottomed sauté pan or medium-sized Dutch oven over medium-high heat. Once hot, add the cumin and coriander seeds for about 1 minute, tossing frequently, or until aromatic and darker by a few shades but don’t let them burn!
