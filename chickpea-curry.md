@@ -1,6 +1,6 @@
 Source: https://rainbowplantlife.com/chickpea-curry/
 
-TODO servings, at least 2
+TODO servings, at least 6
 
 # Ingredients
 - 2 teaspoons coriander seeds
