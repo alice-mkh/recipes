@@ -4,7 +4,7 @@ Source: https://www.thetasteofkosher.com/coconut-milk-pancakes/
 - 3 cups flour (450 mg)
 - 4 tablespoons white sugar (5 if milk is unsweetened)
 - 4 teaspoons baking powder
-- teaspoon baking soda
+- ½ teaspoon baking soda
 - ½ teaspoon salt
 - 1½ cups coconut milk (300 ml) (400?)
 - 1 egg
